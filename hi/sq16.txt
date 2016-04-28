@@ -1,0 +1,6 @@
+6.824 Lecture 19 Paper Question
+Zulsar Batmunkh
+
+Is cell compaction used by other systems?
+How does the Linux group-based resource container work?
+What are declarative desired-state representations?
